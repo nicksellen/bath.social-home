@@ -1,0 +1,27 @@
+Date: 2022-01-25
+Who: Nick, Hollie
+
+Our first "tech working" session!
+
+Nick suggested the steps of:
+- get us a small VPS server
+- get the co-op cloud tool set up (abra)
+- install mastodon (or hometown fork) using it!
+
+What happened was:
+- we checked out hetzner, bytemark, and krystal VPS hosting
+- hetzner was much cheaper and Nick had good experience there already
+- we wondered which account to use to set up, whose email?
+- we setup an email address BathSocial@protonmail.com to use
+- we registered a hetzner organisational account BathSocial
+- Nick used his card to buy a small VPS 4.75EUR/month (CPX11) 2GB
+- yay! we have a server, called "Larkhall" (the part of Bath we were sat in)
+- Hollie uses Windows, so we went through the WSL (windows subsystem on linux) setup
+- that worked nicely
+- we ate some food
+
+So, next step is to continue with setting up the co-op cloud tool, get server access, and get started with it.
+
+We figured we can treat it disposably for now, if we mess up the setup we can always just recreate it all.
+
+We also need to secure the server at some point, TBD how to approach that.
